@@ -1,1 +1,1 @@
-# visualization-toolkit
+# visualization
